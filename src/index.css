@@ -1,0 +1,76 @@
+* { 
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    text-align: center;
+    background-image: url('./images/background.png');
+}
+
+header {
+    height: 200px;
+    color: rgb(243, 240, 240);
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+h1{
+    font-size: 50px;
+    padding: 55px;
+}
+
+.title{
+    color: aliceblue;
+    width: 900px;
+    height: 50px;
+    border: 1px solid aliceblue;
+    text-align: center;
+    margin: auto;
+    padding-top: 20px;
+    border-radius: 40px;
+    font-size: 30px;
+    background: rgba(24, 26, 37, 0.5);
+    mix-blend-mode: hard-light;
+}
+
+.planet-section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    color: aliceblue;
+}
+
+img {
+    width: 100px;
+}
+
+.card {
+    color: aliceblue;
+    width: 250px;
+    height: 100px;
+    border: 1px solid aliceblue;
+    background: rgba(24, 26, 37, 0.5);
+    mix-blend-mode: hard-light;
+    border-radius: 10px;
+    margin: 15px 10px;
+}
+
+.mission-section{
+    display: flex;
+    flex-wrap: wrap;
+    width: 900px;
+    margin: auto;
+    align-content: space-between;
+    justify-content: center;
+
+}
+
+.card p:first-child {
+    border-bottom: 1px solid aliceblue;
+    margin-bottom: 10px;
+    font-weight: bold;
+    padding: 5px 0;
+}
