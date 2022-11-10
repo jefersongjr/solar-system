@@ -43,10 +43,6 @@ h1{
     color: aliceblue;
 }
 
-img {
-    width: 100px;
-}
-
 .card {
     color: aliceblue;
     width: 250px;
@@ -74,3 +70,35 @@ img {
     font-weight: bold;
     padding: 5px 0;
 }
+
+.PlanetCard div img:hover {
+    filter: brightness(130%);
+  }
+  
+  .imageMercúrio {
+    height: 20px;
+  }
+  
+  .imageVênus, .imageTerra {
+    height: 50px;
+  }
+  
+  .imageMarte {
+    height: 35px;
+  }
+  
+  .imageJúpiter {
+    height: 90px;
+  }
+  
+  .imageSaturno {
+    height: 100px;
+  }
+  
+  .imageUrano {
+    height: 70px;
+  }
+  
+  .imageNetuno {
+    height: 62px;
+  }
