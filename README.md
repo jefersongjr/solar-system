@@ -1,4 +1,4 @@
-# Solar System
+# Solar System :rocket: 🌏 🧑‍🚀
 
 ![Prévia](https://github.com/jefersongjr/solar-system/blob/main/public/screen-recording_4_.gif)
 
