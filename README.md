@@ -1,5 +1,7 @@
 # Solar System
 
+![Prévia](https://github.com/jefersongjr/solar-system/blob/main/public/screen-recording_4_.gif)
+
 ##  🚀📋 Sobre:
 
 **Solar System** foi o projeto desenvolvido por mim ,[Jeferson Gomes](https://www.linkedin.com/in/jefersongjr/) 
@@ -8,8 +10,7 @@ Aonde desenvolvi um modelo do sistema solar, aonde fosse possível  Visualizar t
 e visualizar todas as cartas com informações sobre missões espaciais.
 
 
-<!-- veja o resultado clicando [Aqui](https://pixels-art-eosin.vercel.app/)
- -->
+ Veja o resultado clicando [Aqui](https://solar-system-ruby.vercel.app/)
 
 ## 🛠️ Construído com: 
 
