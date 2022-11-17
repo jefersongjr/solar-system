@@ -4,10 +4,10 @@
 
 ##  🚀📋 Sobre:
 
-**Solar System** foi o projeto desenvolvido por mim ,[Jeferson Gomes](https://www.linkedin.com/in/jefersongjr/) 
+**Solar System** foi um projeto desenvolvido por mim ,[Jeferson Gomes](https://www.linkedin.com/in/jefersongjr/) 
 durante o curso de formação de desenvolvimento Full Stack da [Trybe](https://www.betrybe.com/), durante o Front End.
-Aonde desenvolvi um modelo do sistema solar, aonde fosse possível  Visualizar todos os planetas do sistema solar renderizados na tela
-e visualizar todas as cartas com informações sobre missões espaciais.
+Aonde desenvolvi uma aplicação React, aonde fosse possível  visualizar todos os planetas do sistema solar renderizados na tela
+e visualizar cartas com informações sobre missões espaciais.
 
 
  Veja o resultado clicando [Aqui](https://solar-system-ruby.vercel.app/)
